@@ -15,10 +15,10 @@ Predicting the age of abalone from physical measurements. The age of abalone is 
 ### Parameter Optimisation of SVM
 #### Kernels Used
 
-1.linear
-2.poly
-3.rbf
-4.sigmoid
+1.linear ...
+2.poly ...
+3.rbf ...
+4.sigmoid ...
 
 # Final Result
 
