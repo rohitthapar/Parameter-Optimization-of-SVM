@@ -3,20 +3,22 @@
 Dataset Used : Abalone(https://archive.ics.uci.edu/ml/datasets/abalone)
 
 
-| Number of Instances  | 4177 | 
-| Number of Attributes | 8    | 
+|                      |      | 
+|----------------------|------|
+| Number of Instances  | 4177 |   
+| Number of Attributes | 8    |   
 
-Dataset Description :
+####Dataset Description :
 
 Predicting the age of abalone from physical measurements. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope -- a boring and time-consuming task. Other measurements, which are easier to obtain, are used to predict the age. Further information, such as weather patterns and location (hence food availability) may be required to solve the problem
 
 ### Parameter Optimisation of SVM
 #### Kernels Used
 
-..* linear
-..* poly
-..* rbf
-..* sigmoid
+1.linear
+2.poly
+3.rbf
+4.sigmoid
 
 # Final Result
 
