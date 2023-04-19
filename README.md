@@ -20,6 +20,10 @@ Predicting the age of abalone from physical measurements. The age of abalone is 
 3.rbf ...
 4.sigmoid ...
 
+- George Washington
+* John Adams
++ Thomas Jefferson
+
 # Final Result
 
 | Sample | Best Accuracy | Best Kernel | Best Nu | Best Epsilon |  
